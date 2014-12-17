@@ -8,11 +8,9 @@ in the global called square. None for blank spaces.
 
 Start Python and
 
-<code>
-import sudoku
+>>> import sudoku
+>>> sudoku.solver(sudoku.square)
 
-sudoku.solver(sudoku.square)
-</code>
 
 and hopefully you get a solution.
 
