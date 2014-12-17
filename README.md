@@ -10,6 +10,7 @@ Start Python and
 
 <code>
 import sudoku
+
 sudoku.solver(sudoku.square)
 </code>
 
